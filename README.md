@@ -4,6 +4,7 @@ Relátorio no padrão IEEE em anexo a baixo:
 
 
 Slides da apresentação:
-[Artificial Intelligence Presentation.pdf](https://github.com/user-attachments/files/16859404/Artificial.Intelligence.Presentation.pdf)
+[Artificial Intelligence Present.pdf](https://github.com/user-attachments/files/16985245/Artificial.Intelligence.Present.pdf)
+
 
 
